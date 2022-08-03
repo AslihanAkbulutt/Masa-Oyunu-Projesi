@@ -1,11 +1,4 @@
-/**
-*
-* @author Aslihan Akbulut  aslihan.akbulut1@ogr.sakarya.edu.tr
-* @since 08.05.2022
-* <p>
-* Sinif: 2C  no:G201210080 
-* </p>
-*/
+
 #include "Dosya.h"
 #include "Kisi.h"
 
